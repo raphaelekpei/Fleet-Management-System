@@ -8,6 +8,7 @@ class FleetManagementSystemApplicationTests {
 
     @Test
     void contextLoads() {
+
     }
 
 }
